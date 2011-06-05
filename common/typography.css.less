@@ -1,0 +1,88 @@
+//Include the less utils, so we can use the colors and round corners
+@import "../common/utils.css.less";
+
+
+
+//classy serif:
+//Baskerville, Garamond, Palatino, "Palatino Linotype", "Hoefler Text", "Times New Roman", serif;
+
+//Serif body type:
+//"Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+
+
+// ------------------------------- Global ------------------------------
+body {
+	font-family: @serifBigXheight;
+	font-size:16px;
+	color:@greenDark;
+	line-height:1.5; //This means that the default meter for row is 24px (16 * 1.5), so everything should fit a grid of 24; or half: 12px
+	}
+h1, h2 {
+	
+	}
+
+
+// ------------------------------- Headings ------------------------------
+h1 {
+	font-size:26px; line-height:30px;
+	margin:8px 0 4px; //30 + 8 + 4 = 48
+	color:@quiet;
+	border-bottom:1px dotted @reallyQuiet;
+	letter-spacing:.1em;
+	word-spacing:.2em;
+	text-transform:uppercase;
+	}
+h2 {
+	font-size:20px; line-height:24px;
+	margin:16px 0 8px; //24 + 12 + 12 = 48
+	color:@greenReallyDark;
+	text-shadow: 1px 1px @reallyQuiet;
+	}
+h3 {
+	font-size:14px; line-height:21px;
+	margin:15px 0 10px; //21 + 2(borders) + 15 + 10 = 48
+	color:@greenDark;
+	text-transform:uppercase;
+	letter-spacing:.15em;
+	word-spacing:.2em;
+	border-top:1px dotted @reallyQuiet;
+	border-bottom:1px dotted @quiet;
+	}
+h4 {
+	font-size:16px; line-height:18px;
+	//margin:12px 0 6px; //18 + 12 + 6 = 36 (lands on a half-row)
+	margin:18px 0 12px; //18 + 18 + 12 = 48 (lands on a full row)
+	color:@greenReallyDark;
+	font-style: italic;	
+	}
+
+h1,h2,h3,h4 {
+	xmargin:0.75em 0 0.3em;
+	}
+
+
+// ------------------------------- Body Copy ------------------------------
+body p {
+
+	}
+.quiet {
+	color:@quiet;
+	}
+
+
+// ------------------------------- Form Elements ------------------------------
+label {
+	font-weight:bold;
+	}
+
+
+// ------------------------------- Links & Other Interactive Things ------------------------------
+a, a:active {
+	color:@linkyBlue;
+	text-decoration:none;
+	}
+a:hover {
+	text-decoration:underline;
+	}
+	
+

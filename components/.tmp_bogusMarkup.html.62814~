@@ -1,0 +1,119 @@
+<div id="BogusMarkup" style="visibility:hidden">
+
+
+<div class="resumeHolder"><div class="padding">	
+	
+	<a href="viewImage.php?image=EricMillersResume" title="View Large Resum&eacute; Image in Browser">
+		<img src="_images/EricMillersResume_Small.jpg" width="232" height="300" />
+	</a>
+	<p>
+		
+		<a class="link hasIcon" href="_downloads/EricMillersResume.pdf">
+			<i class="icon pagePdf"></i>
+			Download Resum&eacute; in PDF Format
+		</a>
+
+	    <a class="link hasIcon" href="viewImage.php?image=EricMillersResume">
+	    	<i class="icon arrowExpand"></i>
+	    	View Large Resum&eacute; Image in Browser
+		</a>
+		<a class="link hasIcon" href="_downloads/EricMillersResume.doc">
+	    	<i class="icon wordDoc"></i>
+	    	Download Plain ol' Word Format
+		</a>
+	</p>
+
+</div></div>
+
+
+<div class="workHolder"><div class="padding divideLeft">
+	<h2>About Me <span class="asciiIcon">: )</span></h2>
+    <p class="mainText">
+    	I'm Eric Miller. I live near Philadelphia.
+    </p>
+    <p class="mainText">
+    	I really like making things that are simple and fun to use. I have a design and usability background and experience in <span class="bling">Html 5</span>, <span class="bling">CSS3</span>, <span class="bling">jQuery</span>, <span class="bling">ASP.NET MVC</span>, <span class="bling">C#</span>, and <span class="bling">PHP</span>. I think I'm particularly good at bringing ideas to life and writing unimpeachable front end code.
+    </p>
+
+   
+   
+    	<h2>Professional Sites <span class="asciiIcon">[*]</span></h2>    
+	
+	<a class="link hasIcon" href="http://www.shokophoto.com">
+			<i class="icon chainLink"></i>
+			ShokoPhoto.com
+		</a>
+    <p>Site for a Fashion Photographer</p>
+	<ul class="bulletList">
+    	<li><span class="bling">jQuery</span>, <span class="bling">Prototypal Javascript</span>, <span class="bling">PHP</span>, <span class="bling">MySQL</span></li>
+
+		<li>Custom background color changer with mouse movement influence</li>
+		<li>Built a photographer's CMS from the ground up</li>
+	</ul>
+		
+    <a class="link red hasIcon" href="protected">
+			<i class="icon lock"></i>
+			Protected Client Work</a>
+    <p>To respect the privacy of my clients, this work requires a password to view. Please contact me if you'd like the password.</p>
+
+	
+    <a class="link hasIcon" href="http://www.kammholzlaw.com">
+			<i class="icon chainLink"></i>
+			KammholzLaw.com</a>
+    <p>Freelance Project for Personal Injury Attorney</p>
+	
+    <a class="link hasIcon" href="http://www.tribemind.com">
+			<i class="icon chainLink"></i>
+			TribeMind.com</a>
+
+    <p>Software Entrepreneurship Effort. I was Web Developer, Creative Director, and Game Designer</p>
+	<ul class="bulletList">
+    	<li><span class="bling">PHP</span>, JS-free <span class="bling">Suckerfish Drop Downs</span>, <span class="bling">MySQL</span></li>
+		<li>Built a custom blogging and login system myself</li>
+		<li>Using an image replacement technique to make section titles easy to maintain</li>
+
+	</ul>
+    
+	
+	
+	    <h2>Personal Sites <span class="asciiIcon">://</span></h2>
+	 <a class="link hasIcon" href="http://www.verbyournoun.com">
+			<i class="icon chainLink"></i>
+			VerbYourNoun.com</a>
+    <p>This is the kind of thing that <em>will</em> be awesome someday. It's also known as the magic innuendo generator.</p>	
+    
+	<a class="link hasIcon" href="http://www.butter-side-up.com/box2dTest">
+
+			<i class="icon chainLink"></i>
+			Box2d Test Demo</a>
+    <p>A demo of the JS port of Erin Catto's Box 2D physics engine, using the canvas tag.</p>
+	
+    <a class="link hasIcon" href="http://www.campervan.posterous.com">
+			<i class="icon chainLink"></i>
+			CamperVan.Posterous.com</a>
+    <p>I'm turning a cargo van into a mobile office and bedroom for wandering and working.</p>
+
+	
+   
+</div></div>
+
+
+<div class="contactHolder"><div class="padding divideLeft">
+	
+	<a href="mailto:Eric @nospam@ SimpleAsCouldBe.com">
+		<img src="_images/Eric.png" />
+	</a>
+	<a id="Needle-EmailLink" class="link hasIcon" href="mailto:Eric @nospam@ SimpleAsCouldBe.com">
+		<i class="icon speechBubble"></i>
+		Email Me
+	</a>
+
+	
+</div></div>
+
+
+<p class="footer">
+	&copy;2010 Eric Miller. Thanks to <a class="link" href="http://www.famfamfam.com/lab/icons/silk/">FamFamFam</a> for the icons.
+</p>
+
+</div>	
