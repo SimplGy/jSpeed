@@ -1,4 +1,4 @@
-This project is designed to give you a gut-check feel for the JS performance of a a phone. It is not statistically accurate, valid, or probably even good in any way.
+This project is designed to give you a gut-check feel for the JS performance of a phone. It is not statistically accurate, valid, or probably even good in any way.
 
 It does, however, meet these requirements:
 * Runs in <250ms
